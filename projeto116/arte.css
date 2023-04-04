@@ -1,0 +1,31 @@
+.rodape{
+position:fixed;
+bottom:0;
+color:black;
+width:100%;
+font-size:18px;
+line-height:3;
+text-align:center;
+text-shadow:5px 5px 5px rgb(49, 39, 194);
+font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+body{
+    background-color:rgb(110, 214, 240);
+    background-image:linear-gradient(rgb(98, 221, 252),white,rgb(98, 221, 252));
+}
+
+.header_div{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+#an{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+#pr{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+#iniciar{
+border-radius: 30px;
+font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
